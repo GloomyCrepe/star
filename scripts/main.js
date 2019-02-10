@@ -6,10 +6,10 @@
   const PARTICLE_NUM = 2000
   const RADIUS = Math.PI * 2
   const CANVASWIDTH = 500
-  const CANVASHEIGHT = 150
+  const CANVASHEIGHT = 50
   const CANVASID = 'canvas'
 
-  let texts = ['亲爱的仙女老婆,菲小菲', '当你抬起头', '遥望', '你是否', '和我', '看着的是','同一片星空', '情人节', '快乐', '我', '想', '您了!']
+  let texts = ['亲爱的', '仙女老婆', '菲小菲', '当你抬起头', '遥望', '远方', '你是否', '和我', '看着的是','同一片星空', '情人节', '快乐', '我', '想', '您了!']
 
   let canvas,
     ctx,
